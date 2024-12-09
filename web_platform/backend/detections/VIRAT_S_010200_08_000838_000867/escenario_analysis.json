@@ -1,0 +1,13 @@
+{
+    "scene": {
+        "environment_type": "campus",
+        "description": "An outdoor area with buildings surrounded by greenery and pathways. People are walking around.",
+        "features": {
+            "weather": "sunny",
+            "time_of_day": "day",
+            "terrain": "paved",
+            "crowd_level": "low",
+            "lighting": "natural"
+        }
+    }
+}
